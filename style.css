@@ -1,0 +1,210 @@
+/**
+ * Color Palette:
+ * Primary Brown: #6d4c41
+ * Soft Brown: #4e342e
+ * Light Brown: #d7ccc8
+ * Very Light Brown: #efebe9
+ */
+
+/* Reset all elements to a consistent baseline */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base layout and typography */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #4e342e; /* Soft brown */
+  margin: 20px;
+}
+
+/* Header section with gradient background */
+header {
+  text-align: center;
+  margin-bottom: 40px;
+  background-color: #6d4c41; /* Dark brown */
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.2em;
+  color: #fff;
+}
+
+/* Main content area containing filters and data table */
+#data-section {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 40px;
+}
+
+#data-section h2 {
+  margin-bottom: 20px;
+}
+
+/* Filter controls layout and styling */
+#filter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+#filter label {
+  font-size: 1.1em;
+  color: #4e342e; /* Soft brown */
+}
+
+#filter input, #filter select {
+  padding: 10px;
+  font-size: 1em;
+  border: 1px solid #d7ccc8; /* Light brown */
+  border-radius: 5px;
+}
+
+#filter input[type="text"] {
+  width: 300px;
+  max-width: 100%;
+}
+
+#filter select {
+  width: 200px;
+  max-width: 100%;
+}
+
+/* Data table styling with alternating row colors */
+#films-table-container {
+  overflow-x: auto;
+}
+
+#films-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0 auto;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#films-table th, #films-table td {
+  padding: 12px;
+  text-align: left;
+  font-size: 1em;
+}
+
+#films-table th {
+  background-color: #6d4c41; /* Dark brown */
+  color: white;
+  font-size: 1.1em;
+}
+
+#films-table tr:nth-child(even) {
+  background-color: #efebe9; /* Very light brown */
+}
+
+#films-table tr:hover {
+  background-color: #d7ccc8; /* Light brown */
+}
+
+#films-table td a {
+  text-decoration: none;
+  color: #6d4c41; /* Dark brown */
+}
+
+#films-table td a:hover {
+  text-decoration: underline;
+}
+
+/* Chart grid layout and responsive design */
+#charts {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  justify-items: stretch;
+}
+
+/* Individual chart container styling */
+.chart-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.chart-caption {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 1em;
+  color: #4e342e; /* Soft brown */
+}
+
+/* Tooltip styling for film summaries */
+.tooltip {
+  position: absolute;
+  background-color: rgba(109, 76, 65, 0.95); /* Dark brown from our palette */
+  color: #efebe9; /* Very light brown from our palette */
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 0.9em;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  max-width: 250px;
+  white-space: normal;
+  word-wrap: break-word;
+  border: 1px solid rgba(141, 110, 99, 0.6); /* Medium brown border */
+}
+
+/* Footer section styling */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #6d4c41; /* Dark brown */
+  color: white;
+  border-radius: 10px;
+}
+
+/* Mobile responsiveness adjustments */
+@media (max-width: 768px) {
+  #filter {
+    align-items: center;
+  }
+
+  #filter input, #filter select {
+    width: 80%;
+  }
+
+  #charts {
+    grid-template-columns: 1fr;
+  }
+
+  .chart-container {
+    width: 80%;
+    margin-bottom: 30px;
+  }
+}

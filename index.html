@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta tags for proper rendering and responsive design -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Highest-Grossing Films</title>
+  
+  <!-- External resources and dependencies -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="film.ico" type="image/ico">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <!-- Header section with title -->
+  <header>
+    <h1>Highest-Grossing Films</h1>
+    <p>Explore the world's top films by box office revenue.</p>
+  </header>
+
+  <!-- Data section with filters and table -->
+  <section id="data-section">
+    <h2>Films Table</h2>
+    <!-- Filter controls for search, year, and sorting -->
+    <div id="filter">
+      <input type="text" id="search-input" placeholder="Search films..." />
+      <label for="year-filter">Filter by Year:</label>
+      <select id="year-filter">
+        <option value="">Select Year</option>
+      </select>
+      <label for="sort-filter">Sort by:</label>
+      <select id="sort-filter">
+        <option value="">Sort By</option>
+        <option value="title-asc">Title (A-Z)</option>
+        <option value="title-desc">Title (Z-A)</option>
+        <option value="year-asc">Release Year (Asc)</option>
+        <option value="year-desc">Release Year (Desc)</option>
+        <option value="box-asc">Box Office (Asc)</option>
+        <option value="box-desc">Box Office (Desc)</option>
+      </select>
+    </div>
+
+    <!-- Data table displaying film information -->
+    <div id="films-table-container">
+      <table id="films-table">
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Title</th>
+            <th>Year</th>
+            <th>Director</th>
+            <th>Box Office</th>
+            <th>Country</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Visualization section with two charts -->
+    <section id="charts">
+      <div class="chart-container">
+        <canvas id="country-chart"></canvas>
+        <p class="chart-caption">Number of Films by Country</p>
+      </div>
+      <div class="chart-container">
+        <canvas id="top-directors-chart"></canvas>
+        <p class="chart-caption">Top 5 Directors by Revenue</p>
+      </div>
+    </section>
+  </section>
+
+  <!-- Footer  -->
+  <footer>
+    <p>Data Wrangling and Visualization Course | March 2, 2025</p>
+    <p>Created by Liana Mardanova</p>
+  </footer>
+
+  <!-- Main application  -->
+  <script src="script.js"></script>
+</body>
+</html>

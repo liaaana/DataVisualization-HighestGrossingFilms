@@ -1,0 +1,452 @@
+[
+    {
+        "title": "Avatar",
+        "film_url": "https://en.wikipedia.org/wiki/Avatar_(2009_film)",
+        "release_year": 2009,
+        "box_office": 2923706026.0,
+        "director": "James Cameron",
+        "country": "United Kingdom",
+        "summary": "'Avatar' is a science fiction movie about a paralyzed Marine who embarks on a mission to walk again by inhabiting an Avatar body. The film explores themes of identity, courage, and love in a visually stunning world."
+    },
+    {
+        "title": "Avengers: Endgame",
+        "film_url": "https://en.wikipedia.org/wiki/Avengers:_Endgame",
+        "release_year": 2019,
+        "box_office": 2797501328.0,
+        "director": "Anthony RussoJoe Russo",
+        "country": "United States",
+        "summary": "'Avengers: Endgame' is a 2019 action-adventure film based on the Marvel Comics superhero team 'The Avengers'. It follows the story of the team attempting to counteract Thanos' genocidal actions and restore balance to the galaxy."
+    },
+    {
+        "title": "Avatar: The Way of Water",
+        "film_url": "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water",
+        "release_year": 2022,
+        "box_office": 2320250281.0,
+        "director": "James Cameron",
+        "country": "United States",
+        "summary": "In 'Avatar: The Way of Water', a child from Earth embarks on an epic aquatic journey with a fantastical creature called the 'Na'vi' to ultimately heal a watery world plagued by human-Na'vi conflicts. The movie immerses viewers in a visually stunning, immersive 3D world, as well as tackling important themes touching on environmentalism and cultural conflicts."
+    },
+    {
+        "title": "Titanic",
+        "film_url": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+        "release_year": 1997,
+        "box_office": 2257844554.0,
+        "director": "James Cameron",
+        "country": "United States",
+        "summary": "The 1997 film 'Titanic' portrays the tragic sinking of the RMS Titanic in 1912, and focuses on the unlikely love story between upper-class Rose DeWitt Bukater and lower-class Jack Dawson, culminating in their untimely demise."
+    },
+    {
+        "title": "Star Wars: The Force Awakens",
+        "film_url": "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens",
+        "release_year": 2015,
+        "box_office": 2068223624.0,
+        "director": "J. J. Abrams",
+        "country": "United States",
+        "summary": "'Star Wars: The Force Awakens' is an American space opera film created by J.J. Abrams. It marks the restart of the Star Wars film series after a decade absence and culminates the Skywalker saga."
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "film_url": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War",
+        "release_year": 2018,
+        "box_office": 2048359754.0,
+        "director": "Anthony RussoJoe Russo",
+        "country": "United States",
+        "summary": "Avengers: Infinity War is a Marvel superhero film that brings together the Avengers and introduces the threat of interdimensional invaders called the Infinity Stones."
+    },
+    {
+        "title": "Ne Zha 2",
+        "film_url": "https://en.wikipedia.org/wiki/Ne_Zha_2",
+        "release_year": 2025,
+        "box_office": 1985082560.0,
+        "director": "Jiaozi",
+        "country": "China",
+        "summary": "Ne Zha 2 is a Chinese animated film that follows the story of a young Tibetan boy named Ne Zha who was born in the 1930s and grows up in a remote Himalayan village. As a powerful wuxiahua, Ne Zha possesses unique abilities and becomes embroiled in a forbidden romance with a Chinese girl."
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "film_url": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home",
+        "release_year": 2021,
+        "box_office": 1922598800.0,
+        "director": "Jon Watts",
+        "country": "United States",
+        "summary": "Spider-Man: No Way Home is a Marvel Cinematic Universe film that follows the story of Peter Parker reacquainting with the Kingpin and facing dilemmas regarding hiséastions and personal life."
+    },
+    {
+        "title": "Inside Out 2",
+        "film_url": "https://en.wikipedia.org/wiki/Inside_Out_2",
+        "release_year": 2024,
+        "box_office": 1698863816.0,
+        "director": "Kelsey Mann",
+        "country": "United States",
+        "summary": "Inside Out 2 is an animated movie that continues the story of the first film. It delves into the complex emotions that wildly imaginative children experience, offering insights about the nature of sadness, anger, joy, and fear."
+    },
+    {
+        "title": "Jurassic World",
+        "film_url": "https://en.wikipedia.org/wiki/Jurassic_World",
+        "release_year": 2015,
+        "box_office": 1671537444.0,
+        "director": "Colin Trevorrow",
+        "country": "United States",
+        "summary": "Jurassic World reunites the original film's cast and introduces new creatures to create an epic action-adventure as they attempt to save the isla nublar park from an unpredictable and highly lethal creature."
+    },
+    {
+        "title": "The Lion King",
+        "film_url": "https://en.wikipedia.org/wiki/The_Lion_King_(2019_film)",
+        "release_year": 2019,
+        "box_office": 1656943394.0,
+        "director": "Jon Favreau",
+        "country": "United States",
+        "summary": "'The Lion King' (2019) is a live-action adaptation of the animated film, featuring the voice cast from the original movie, including Aladdin, Simba, and Nala."
+    },
+    {
+        "title": "The Avengers",
+        "film_url": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)",
+        "release_year": 2012,
+        "box_office": 1518815515.0,
+        "director": "Joss Whedon",
+        "country": "United States",
+        "summary": "The Avengers is an action-packed superhero movie that follows an ensemble cast of Marvel characters as they defend the world from Loki and his army."
+    },
+    {
+        "title": "Furious 7",
+        "film_url": "https://en.wikipedia.org/wiki/Furious_7",
+        "release_year": 2015,
+        "box_office": 1515341399.0,
+        "director": "James Wan",
+        "country": "United States",
+        "summary": "Furious 7 is an action film about a team of professional drivers who must confront a formidable opponent to avenge the death of their comrade."
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "film_url": "https://en.wikipedia.org/wiki/Top_Gun:_Maverick",
+        "release_year": 2022,
+        "box_office": 1495696292.0,
+        "director": "Joseph Kosinski",
+        "country": "United States",
+        "summary": "Top Gun: Maverick is a 2019 American action film, serving as a sequel to the 1986 film, Top Gun. The movie follows the story of Tom Cruise as the pilot of the infamous 'Maverick' fighter jet and the new 'Top Gun' instructor, echoing the original's theme of bravery and brotherhood amidst aerial combat."
+    },
+    {
+        "title": "Frozen 2",
+        "film_url": "https://en.wikipedia.org/wiki/Frozen_2",
+        "release_year": 2019,
+        "box_office": 1450026933.0,
+        "director": "Chris Buck",
+        "country": "United States",
+        "summary": "'Frozen 2' is an animated musical adventure that picks up after the events of the first film. It stars an ensemble cast and features some new songs."
+    },
+    {
+        "title": "Barbie",
+        "film_url": "https://en.wikipedia.org/wiki/Barbie_(film)",
+        "release_year": 2023,
+        "box_office": 1447038421.0,
+        "director": "Greta Gerwig",
+        "country": "United States",
+        "summary": "Barbie is an American toy doll icon and media franchise that originated in 1959. She has since become a pop culture icon representing feminism, diversity, and fun fashion, as the dolls continue to evolve and adapt to modern times."
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "film_url": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron",
+        "release_year": 2015,
+        "box_office": 1402809540.0,
+        "director": "Joss Whedon",
+        "country": "United States",
+        "summary": "Avengers: Age of Ultron is a 2015 American superhero action-adventure film produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It marks the sequel to 2012's Avengers Assemble and 2014's The Avengers, and is based on the Marvel character group of the same name."
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "film_url": "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie",
+        "release_year": 2023,
+        "box_office": 1362566989.0,
+        "director": "Aaron Horvath",
+        "country": "United States",
+        "summary": "The Super Mario Bros. movie is an animated film based on the popular video game franchise, featuring the Mario characters in a far-fetched story about King Koopa's attempt to world-conquer using the power of the Chaos Emeralds."
+    },
+    {
+        "title": "Black Panther",
+        "film_url": "https://en.wikipedia.org/wiki/Black_Panther_(film)",
+        "release_year": 2018,
+        "box_office": 1347280838.0,
+        "director": "Ryan Coogler",
+        "country": "United States",
+        "summary": "'Black Panther' is a 2018 American superhero film based on the Marvel comics character of the same name. It follows the story of T'CHalla, the new Black Panther, who must rise to the Kingship of Wakanda and protect his people from plots by enemies and foes alike."
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows – Part 2",
+        "film_url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2",
+        "release_year": 2011,
+        "box_office": 1342139727.0,
+        "director": "David Yates",
+        "country": "United Kingdom",
+        "summary": "'Harry Potter and the Deathly Hallows - Part 2' is the final installment in the blockbuster franchise, focusing on the titular character's battle against Lord Voldemort. The movie concludes with a thrilling showdown between Harry and the villain, leading to a dramatic and emotional climax."
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "film_url": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine",
+        "release_year": 2024,
+        "box_office": 1338073645.0,
+        "director": "Shawn Levy",
+        "country": "United States",
+        "summary": "Deadpool joins forces with Wolverine to battle evil forces and save the world from destruction."
+    },
+    {
+        "title": "Star Wars: The Last Jedi",
+        "film_url": "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi",
+        "release_year": 2017,
+        "box_office": 1332539889.0,
+        "director": "Rian Johnson",
+        "country": "United States",
+        "summary": "Set in the remote planet of Ahch-To, 'The Last Jedi' follows the journey of Rey, a scavenger who discovers a hidden Jedi Order. The movie explores themes of destiny and the Force, with breathtaking visuals and exciting action sequences."
+    },
+    {
+        "title": "Jurassic World: Fallen Kingdom",
+        "film_url": "https://en.wikipedia.org/wiki/Jurassic_World:_Fallen_Kingdom",
+        "release_year": 2018,
+        "box_office": 1308473425.0,
+        "director": "J. A. Bayona",
+        "country": "China",
+        "summary": "'Jurassic World: Fallen Kingdom' is a 2018 action-adventure film set on the fictional island of Isla Nublar, where an elite team of scientists and engineers must combat a pack of genetically recreated dinosaurs unleashed upon the island."
+    },
+    {
+        "title": "Frozen",
+        "film_url": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+        "release_year": 2013,
+        "box_office": 1290000000.0,
+        "director": "Chris Buck",
+        "country": "United States",
+        "summary": "'Frozen' is an animated musical film produced by Walt Disney Pictures. The story follows the journey of courageous Anna as she sets off on an epic journey to save her kingdom, Arendelle, and find her estranged olderamour, Kristoff."
+    },
+    {
+        "title": "Beauty and the Beast",
+        "film_url": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(2017_film)",
+        "release_year": 2017,
+        "box_office": 1263521126.0,
+        "director": "Bill Condon",
+        "country": "United States",
+        "summary": "'Beauty and the Beast' is a Disney live-action adaptation of the classic fairy tale, telling the story of a beautiful princess and a beast who fall in love despite their differences. The movie features modern songs and CGI animation alongside traditional storytelling."
+    },
+    {
+        "title": "Incredibles 2",
+        "film_url": "https://en.wikipedia.org/wiki/Incredibles_2",
+        "release_year": 2018,
+        "box_office": 1242805359.0,
+        "director": "Brad Bird",
+        "country": "United States",
+        "summary": "In 'Incredibles 2', the Parr family is called upon to halt a villain's plan for global domination. The plot revolves around an extraordinary challenge that pits them against formidable forces, leading to thrilling action and heartwarming moments."
+    },
+    {
+        "title": "The Fate of the Furious",
+        "film_url": "https://en.wikipedia.org/wiki/The_Fate_of_the_Furious",
+        "release_year": 2017,
+        "box_office": 1238764765.0,
+        "director": "F. Gary Gray",
+        "country": "United States",
+        "summary": "The Fate of the Furious is a 2017 American action-adventure film directed by F. Gary Gray. It stars Vin Diesel, Michelle Rodriguez, and John Wick himself, with Dominic Toretto at the center of an international criminal plot involving high-speed vehicular pursuits."
+    },
+    {
+        "title": "Iron Man 3",
+        "film_url": "https://en.wikipedia.org/wiki/Iron_Man_3",
+        "release_year": 2013,
+        "box_office": 1214811252.0,
+        "director": "Shane Black",
+        "country": "United States",
+        "summary": "Iron Man 3 is a superhero action film featuring the Marvel character Iron Man, withplot centered around the search for advanced energy technology andapocalyptic visual effects."
+    },
+    {
+        "title": "Minions",
+        "film_url": "https://en.wikipedia.org/wiki/Minions_(film)",
+        "release_year": 2015,
+        "box_office": 1159444662.0,
+        "director": "Pierre Coffin",
+        "country": "United States",
+        "summary": "Minions is an animated movie about the spyés la recherche."
+    },
+    {
+        "title": "Captain America: Civil War",
+        "film_url": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War",
+        "release_year": 2016,
+        "box_office": 1153337496.0,
+        "director": "Anthony RussoJoe Russo",
+        "country": "United States",
+        "summary": "Captain America: Civil War is an American superhero film based on the Marvel Comics character Captain America. The film focuses on the political and ethical consequences of a Government-led superhuman registration, which divides superheroes into factions and triggers a civil war."
+    },
+    {
+        "title": "Aquaman",
+        "film_url": "https://en.wikipedia.org/wiki/Aquaman_(film)",
+        "release_year": 2018,
+        "box_office": 1148528393.0,
+        "director": "James Wan",
+        "country": "United States",
+        "summary": "In 'Aquaman', Arthur Curry, a half-human, half-Atlantean, must battle an enemy from the depths to save the underwater kingdom and restore peace to the world."
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "film_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+        "release_year": 2003,
+        "box_office": 1147997407.0,
+        "director": "Peter Jackson",
+        "country": "New Zealand",
+        "summary": "In 'The Lord of the Rings: The Return of the King', a reluctant King Frodo Baggins journeys to the heart of the terror-filled Fellowship to defeat a powerful Dark Lord and save Middle Earth."
+    },
+    {
+        "title": "Spider-Man: Far From Home",
+        "film_url": "https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home",
+        "release_year": 2019,
+        "box_office": 1132679685.0,
+        "director": "Jon Watts",
+        "country": "United States",
+        "summary": "In Spider-Man: Far From Home, Peter Parker returns to New York City after a trip to Europe. As he navigates the dangers of a world-threatening supervillain, he also grapples with personal struggles and comes to terms with a massive secret."
+    },
+    {
+        "title": "Captain Marvel",
+        "film_url": "https://en.wikipedia.org/wiki/Captain_Marvel_(film)",
+        "release_year": 2019,
+        "box_office": 1128274794.0,
+        "director": "Anna BodenRyan Fleck",
+        "country": "United States",
+        "summary": "Captain Marvel is an American superhero movie that takes place in the 1990s. The plot follows a soldier who becomes a hero after getting powers from alien Kree super soldiers."
+    },
+    {
+        "title": "Transformers: Dark of the Moon",
+        "film_url": "https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon",
+        "release_year": 2011,
+        "box_office": 1123794079.0,
+        "director": "Michael Bay",
+        "country": "United States",
+        "summary": "The movie follows the Autobots and Decepticons as they battle for control of an energy source on the moon, leading to high-octane action sequences and plenty of robot transformations. The film delivers thrilling, CGI-fueled entertainment for fans of the franchise."
+    },
+    {
+        "title": "Skyfall",
+        "film_url": "https://en.wikipedia.org/wiki/Skyfall",
+        "release_year": 2012,
+        "box_office": 1108594137.0,
+        "director": "Sam Mendes",
+        "country": "United Kingdom",
+        "summary": "'Skyfall' is a 2012 American-British spy film, featuring an ensemble cast and a plot centered around cyber intelligence, terrorism, and the search for a lost British submarine."
+    },
+    {
+        "title": "Transformers: Age of Extinction",
+        "film_url": "https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction",
+        "release_year": 2014,
+        "box_office": 1104054072.0,
+        "director": "Michael Bay",
+        "country": "United States",
+        "summary": "Transformers: Age of Extinction follows the story of a cybertronic organism, Optimus Prime, and his Autobots as they team up with a human scientist and his sons to defend earth from an extraterrestrial threat."
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "film_url": "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises",
+        "release_year": 2012,
+        "box_office": 1081169825.0,
+        "director": "Christopher Nolan",
+        "country": "United States",
+        "summary": "The Dark Knight Returns is an American Batman movie that was released in 2012. It stars Christian Bale as Batman and Aaron Eckhart as the villain Selina Kyle/Catwoman."
+    },
+    {
+        "title": "Joker",
+        "film_url": "https://en.wikipedia.org/wiki/Joker_(2019_film)",
+        "release_year": 2019,
+        "box_office": 1074458282.0,
+        "director": "Todd Phillips",
+        "country": "United States",
+        "summary": "The movie 'Joker' is a dark psychological thriller about a man suffering from a mental breakdown, which causes him to become a villain and engage in criminal activities."
+    },
+    {
+        "title": "Star Wars: The Rise of Skywalker",
+        "film_url": "https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker",
+        "release_year": 2019,
+        "box_office": 1074144248.0,
+        "director": "J. J. Abrams",
+        "country": "United States",
+        "summary": "In 'Star Wars: The Rise of Skywalker,' the galaxy is under threat from the dark side as the evil Sith return led by a manipulated Supreme Leader Snoke. The resistance led by Rey and Kylo Ren must fend off the villain and restore balance to the galaxy."
+    },
+    {
+        "title": "Toy Story 4",
+        "film_url": "https://en.wikipedia.org/wiki/Toy_Story_4",
+        "release_year": 2019,
+        "box_office": 1073394593.0,
+        "director": "Josh Cooley",
+        "country": "United States",
+        "summary": "'Toy Story 4' is an animated movie that picks up several years after the events of the previous film. It follows the toys as they rehash their old stories and prepare to bid a final goodbye."
+    },
+    {
+        "title": "Toy Story 3",
+        "film_url": "https://en.wikipedia.org/wiki/Toy_Story_3",
+        "release_year": 2010,
+        "box_office": 1066970811.0,
+        "director": "Lee Unkrich",
+        "country": "United States",
+        "summary": "In the movie 'Toy Story 3', the toys prepare for retirement as they are bought by a new owner. The film explores the idea of the toys experiencing a 'tricked-out' digital afterlife."
+    },
+    {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "film_url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest",
+        "release_year": 2006,
+        "box_office": 1066179747.0,
+        "director": "Gore Verbinski",
+        "country": "United States",
+        "summary": "In 'Pirates of the Caribbean: Dead Man's Chest', Captain Jack Sparrow (Johnny Depp) searches for the legendary pirate, Captain Barbossa (Geoffrey Rush), who has been cursed to death. Barred from entering the afterlife, Barbossa seeks revenge and assembles an undead crew to help him locate Sparrow and claim his soul."
+    },
+    {
+        "title": "Rogue One: A Star Wars Story",
+        "film_url": "https://en.wikipedia.org/wiki/Rogue_One:_A_Star_Wars_Story",
+        "release_year": 2016,
+        "box_office": 1057420387.0,
+        "director": "Gareth Edwards",
+        "country": "United States",
+        "summary": "Rogue One: A Star Wars Story is an extended cameo appearance for the character of Jyn Erso. It follows a group of rebels attempting to steal the plans for the Death Star, eventually leading to a high-stakes mission with a low armor count."
+    },
+    {
+        "title": "Moana 2",
+        "film_url": "https://en.wikipedia.org/wiki/Moana_2",
+        "release_year": 2024,
+        "box_office": 1053978188.0,
+        "director": "David Derrick Jr.",
+        "country": "United States",
+        "summary": "Moana 2 follows the story of Moana, a young Polynesian girl, who reunites with her family and demigod Maui to save her island from a demigod's curse. The film features new songs and captivating animation, continuing the story 15 years after the beloved 2016 original."
+    },
+    {
+        "title": "Aladdin",
+        "film_url": "https://en.wikipedia.org/wiki/Aladdin_(2019_film)",
+        "release_year": 2019,
+        "box_office": 1050693953.0,
+        "director": "Guy Ritchie",
+        "country": "United States",
+        "summary": "'Aladdin' (2019), an animated musical, follows the story of a young street artist who becomes an overnight prince as he discovers his destiny to unite his beloved city and the enchanting princess he rescues from a notorious thief."
+    },
+    {
+        "title": "Star Wars: Episode I – The Phantom Menace",
+        "film_url": "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace",
+        "release_year": 1999,
+        "box_office": 1046515409.0,
+        "director": "George Lucas",
+        "country": "United States",
+        "summary": "Star Wars: Episode I – The Phantom Menace is the first movie in the original Star Wars trilogy. It features Darth Maul, Obi-Wan Kenobi, and Anakin Skywalker as they travel together on a mission for the Trade Federation."
+    },
+    {
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "film_url": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+        "release_year": 2011,
+        "box_office": 1045713802.0,
+        "director": "Rob Marshall",
+        "country": "United States",
+        "summary": "Pirates of the Caribbean: On Stranger Tides is a 2011 American fantasy swashbuckler film based on Walt Disney's Pirates of the Caribbean series. The plot follows Captain Jack Sparrow (Johnny Depp) as he chases an elusive ghost ship carrying valuable treasures to uncover the secret behind Captain Barbossa's (Geoffrey Rush) quest."
+    },
+    {
+        "title": "Jurassic Park",
+        "film_url": "https://en.wikipedia.org/wiki/Jurassic_Park_(film)",
+        "release_year": 1993,
+        "box_office": 1037535230.0,
+        "director": "Steven Spielberg",
+        "country": "United States",
+        "summary": "Jurassic Park is a science fiction thriller about an island where genetically advanced dinosaurs have been re-created to replicate the appearance and behavior of their extinct ancestors."
+    },
+    {
+        "title": "Despicable Me 3",
+        "film_url": "https://en.wikipedia.org/wiki/Despicable_Me_3",
+        "release_year": 2017,
+        "box_office": 1034800131.0,
+        "director": "Pierre Coffin",
+        "country": "United States",
+        "summary": "Despicable Me 3 is a 2017 animated comedy film that follows the story of Gru and his minions as they go on a mission to locate and arrest an international criminal."
+    }
+]
